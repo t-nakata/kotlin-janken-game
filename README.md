@@ -28,3 +28,16 @@
 13. ダイアログに「OK」ボタンを表示させる。
 14. ダイアログの「OK」ボタンがクリックされたイベントを検出する
 15. Timerを使った定期実行処理を使用し、ImageViewの画像を変更する。
+
+### 画像
+[いらすとや](https://www.irasutoya.com/2013/07/blog-post_5608.html)
+
+![グー](https://2.bp.blogspot.com/-VhlO-Yfjy_E/Uab3z3RNJQI/AAAAAAAAUVg/fX8VnSVDlWs/s800/janken_gu.png "グー")
+
+![チョキ](https://4.bp.blogspot.com/-__yEIXe5SxU/Uab3zO7BB2I/AAAAAAAAUVI/MYg6TVeiv-Y/s800/janken_choki.png "チョキ")
+
+![パー](https://3.bp.blogspot.com/-qZtyoue9xKs/Uab30IG0Q5I/AAAAAAAAUVk/qnH8a2OgrvI/s800/janken_pa.png "パー")
+
+<img src="https://www.irasutoya.com/2013/07/blog-post_5608.html" width="100px">
+<img src="https://4.bp.blogspot.com/-__yEIXe5SxU/Uab3zO7BB2I/AAAAAAAAUVI/MYg6TVeiv-Y/s800/janken_choki.png" width="100px">
+<img src="https://3.bp.blogspot.com/-qZtyoue9xKs/Uab30IG0Q5I/AAAAAAAAUVk/qnH8a2OgrvI/s800/janken_pa.png" width="100px">
